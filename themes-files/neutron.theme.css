@@ -20,6 +20,8 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
 @import url("https://xcruxiex.github.io/themes/core/badges.css");
 @import url("https://xcruxiex.github.io/themes/core/custom-font.css");
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'); /* Custom font import link (see fonts.google.com) */
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 /*##########################################################################
 
                  CHANGE VALUES BELOW TO CUSTOMIZE YOU THEME
@@ -49,4 +51,30 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
   /* CODE BLOCKS */
   --backgroundCode: rgba(0,0,0,.5);
   --backgroundName: rgba(0,0,0,.5);
+--themeColor1: #36D1DC;
+--themeColor2: #E50202FF;
+--customFont: 'kano';
+--homeImage: url('https://limeshark.dev/img/n/icon.png');
+--homeImageSize: cover;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://cdn.discordapp.com/attachments/788614586295123988/1085444622106492948/download_8.jpg');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.65;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
 }
